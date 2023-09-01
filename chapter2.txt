@@ -1,0 +1,1 @@
+open a different editor to get started with this project.
